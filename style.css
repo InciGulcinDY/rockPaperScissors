@@ -1,0 +1,25 @@
+nav{
+    background-color: #120638;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#search{
+
+}
+main{
+    background-image: linear-gradient(#33c2d0 , #621f86);
+    height: 800px;
+}
+.card{
+    background-color: transparent;
+    color: #120638;
+}
+.card h5{
+    color: #621f86;
+}
+#game{
+    background-color: #621f86;
+}
+.badge{
+    background-color: #120638;
+    color: #af6830;
+}
